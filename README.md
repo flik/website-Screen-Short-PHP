@@ -3,9 +3,9 @@ You can take a website screen short by php
 
 Just check the example websitescreenshort.php ... :)
 
-#First Download Selenium Server
+# First Download Selenium Server: http://selenium-release.storage.googleapis.com/index.html?path=2.39/
 
-#Second Download Web Drivers
+# Second Download Web Drivers : https://github.com/facebook/php-webdriver
 
 Now Start the server by the command:
 
